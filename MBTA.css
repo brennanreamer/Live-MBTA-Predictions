@@ -1,0 +1,62 @@
+body {
+	background-color: white;
+	font-family: Sans-Serif;
+	font-size: 40px;
+	padding: 10px;
+}
+
+button {
+	background-color: #3A89EB;
+	border-radius: 4px;
+	border-width: 0;
+	color: #fff;
+	cursor: pointer;
+	font-size: 24px;
+	padding: 16px;
+}
+
+button:active {
+	background-color: rgb(3, 106, 214);
+}
+
+input {
+	border: 1px solid #DFE1E5;
+	border-radius: 3px;
+	color: #182339;
+	font-size: 40px;
+	padding: 8px;
+}
+
+select {
+	appearance: none;
+	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='19' height='19' viewBox='0 0 24 24' class='sc-fznWqX bsCTUN'%3E%3Cpath d='M7 10l5 5 5-5z'%3E%3C/path%3E%3C/svg%3E");
+	background-repeat: no-repeat;
+	background-position: right 0.5rem center;
+	background-size: auto 55%;
+	border: 1px solid #DFE1E5;
+	border-radius: 3px;
+	color: #182339;
+	font-size: 40px;
+	padding: 15px;
+	padding-right: 45px;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+	font-size: 25px;
+	text-align: middle;
+}
+
+th {
+	color: #47556C;
+	background-color: #FAFBFC;
+	border: 1px solid #DFE1E5;
+	font-weight: 400;
+	padding: 4px;
+}
+
+td {
+	border: 1px solid #DFE1E5;
+	padding: 12px 4px;
+}
